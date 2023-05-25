@@ -24,5 +24,5 @@
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at A.Turner3x@gmail.com. You can find more of my work at [A.Turner3x](https://github.com/A.Turner3x/).
+  If you have any questions about the repo, open an issue or contact me directly at A.Turner3x@gmail.com. You can find more of my work at [A.Turner3x](https://github.com/ATurner3x/).
   
