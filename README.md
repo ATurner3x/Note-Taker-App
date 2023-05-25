@@ -6,16 +6,6 @@
   ## Description
   
   Use this application to store personal notes for yourself as well as delete them when neccesary
-  
-  ## Table of Contents 
-  
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Questions](#questions)
-  
   ## Installation
   
   To install necessary dependencies, run the following command:
