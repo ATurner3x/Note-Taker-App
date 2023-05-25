@@ -21,7 +21,7 @@
   To install necessary dependencies, run the following command:
   
   ```
-  undefined
+  npm i
   ```
   
   ## Usage
@@ -31,18 +31,6 @@
   ## License
   
   This project is licensed under the MIT license.
-  
-  ## Contributing
-  
-  undefined
-  
-  ## Tests
-  
-  To run tests, run the following command:
-  
-  ```
-  undefined
-  ```
   
   ## Questions
   
