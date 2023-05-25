@@ -18,7 +18,7 @@ app.get('/notes', (req, res) => {
   res.sendFile(path.join(__dirname, './public/notes.html'));
 });
 
-app.get('*', (req, res) => {
+app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, './public/index.html'));
 });
 
@@ -47,6 +47,11 @@ app.post('/api/notes', (req, res) => {
       }
     );
   });
+});
+
+// Wildcard route to handle all other routes and serve the index.html file
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, './public/index.html'));
 });
 
 // Start the server
